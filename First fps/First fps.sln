@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{53CDE9D1-8C4E-EF8F-A08D-06D6F02241A6}") = "First fps", "Assembly-CSharp.csproj", "{A431C746-0C97-AA08-8428-A9929C0EE7BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A431C746-0C97-AA08-8428-A9929C0EE7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A431C746-0C97-AA08-8428-A9929C0EE7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A431C746-0C97-AA08-8428-A9929C0EE7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A431C746-0C97-AA08-8428-A9929C0EE7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
