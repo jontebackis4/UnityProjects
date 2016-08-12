@@ -14,7 +14,7 @@ public class PlayerMovement : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
 
 		translationFwd = Input.GetAxis ("Vertical") * Time.deltaTime;
 		translationSide = Input.GetAxis ("Horizontal") * Time.deltaTime;
